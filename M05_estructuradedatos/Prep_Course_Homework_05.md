@@ -44,7 +44,7 @@
 
 22) Desempaquetar solo los primeros 3 elementos de la tupla en 3 variables
 
-23) Crear un diccionario utilizando la lista crada en el punto 1, asignandole la clave "ciudad". Agregar tambien otras claves, como puede ser "Pais" y "Continente".
+23) Crear un diccionario utilizando la lista creada en el punto 1, asignandole la clave "ciudad". Agregar tambien otras claves, como puede ser "Pais" y "Continente".
 
 24) Imprimir las claves del diccionario
 
